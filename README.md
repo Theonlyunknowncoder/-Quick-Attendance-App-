@@ -1,24 +1,6 @@
 Quick Attendance App
 A simple and efficient Android application designed for teachers to quickly manage student lists and take daily attendance. The app allows for manual entry of students, local data persistence, and easy sharing of attendance reports.
-
-📸 Screenshots
-(You can add screenshots of your app here to showcase the UI)
-
-Main Screen
-
-Manage Students Screen (with Search)
-
-
-
-
-
-Attendance Screen
-
-Dark Mode
-
-
-
-
+ 
 
 🛠️ Built With
 Language: Kotlin
@@ -50,4 +32,4 @@ Check the boxes next to the students who are present.
 
 Tap "Generate and Send Report" to share the formatted list.
 
-This project was created by [Your Name Here].
+This project was created by  theonlyunknowncoder
