@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme for dark mode. -->
+    <!-- It inherits from the same DayNight parent, but because this file is in the
+         values-night folder, the system knows to apply a dark material theme. -->
+    <style name="Base.Theme.QuickAttendanceApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- You can customize your dark theme here if needed. -->
+    </style>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary App Colors -->
+    <color name="purple_primary">#4F46E5</color>
+    <color name="purple_dark">#4338CA</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#1E293B</color>
+    <color name="text_secondary">#475569</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Background Colors -->
+    <color name="background_light">#F0F4F8</color>
+    <color name="textColorPrimary" />
+    <color name="colorBackground" />
+    <color name="textColorSecondary" />
+</resources>
+

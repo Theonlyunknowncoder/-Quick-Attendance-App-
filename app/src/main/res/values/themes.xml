@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.QuickAttendanceApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- For example, you can set primary colors: -->
+        <!-- <item name="colorPrimary">@color/purple_primary</item> -->
+    </style>
+
+    <style name="Theme.QuickAttendanceApp" parent="Base.Theme.QuickAttendanceApp" />
+</resources>
+

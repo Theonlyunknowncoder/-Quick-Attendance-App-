@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quick Attendance</string>
+
+    <!-- MainActivity -->
+    <string name="take_todays_attendance">Take Today\'s Attendance</string>
+    <string name="upload_manage_student_list">Upload/Manage Student List</string>
+    <string name="developer_credit">Made By Yuvraj Singh Sahu</string>
+
+    <!-- AttendanceActivity -->
+    <string name="mark_attendance_title">Mark Attendance</string>
+    <string name="generate_and_send_report">Generate and Send Report</string>
+
+    <!-- ManageStudentsActivity -->
+    <string name="manage_student_list_title">Manage Student List</string>
+    <string name="add_new_student">Add New Student</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="roll_number_hint">Roll Number</string>
+    <string name="student_name_hint">Student Name</string>
+    <string name="manage_student_list" />
+</resources>
+
